@@ -1,7 +1,7 @@
 public class HellowUkraine {
     public static void main(String[] args) {
         System.out.println("Hello Ukraine2. Russia-Ukraine War We Will Not Waver 2019: Biden Affirms Support for Ukraine After NATO Summit \nJava \n Is \n Great\" ");
-        System.out.println("Over the course of a two-day summit in Lithuania");
+        System.out.println("Over the course of a two-day summit in Lithuania 777");
         System.out.print("Prints a character. \n The character is translated into one or more bytes" +
                 " according to the character encoding given to the constructor, " +
                 "or the default charset if none specified. " +
