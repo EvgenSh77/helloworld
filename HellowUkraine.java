@@ -12,7 +12,7 @@ public class HellowUkraine {
         //Ось кілька прикладів використання класів-обгорток:
         Integer b; //дозволяє "зчитати" число із рядка
         b = Integer.parseInt("120");
-        Boolean k = Boolean.FALSE;
+        Boolean c = Boolean.FALSE;
         Long a = 150L;
         System.out.println(a + b); // отримаємо 13
         System.out.print("Оператор присвоєння = ");
@@ -72,4 +72,5 @@ public class HellowUkraine {
 //return sum = sum(a, b);
 //  AtomicInteger sum = new AtomicInteger();
 //return 0;
+
 }
