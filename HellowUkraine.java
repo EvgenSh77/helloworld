@@ -18,6 +18,8 @@ public class HellowUkraine {
         System.out.print("Оператор присвоєння = ");
         //Оператор присвоєння
         double appleCount = 50.5; //Просто присвоїли число 50
+        System.out.print("appelCount - ");
+        System.out.print(appleCount);
         appleCount += 50.5; //додаєм до значення змінної 50.5
         int bananaCount = 8 + 12; //Присвоїли 11 - суму 8 і 12
         double totalFruitCount = appleCount / bananaCount; // Присвоїли суму змінних appleCount і bananaCount - 70
