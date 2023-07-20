@@ -157,20 +157,52 @@ public class HellowUkraine {
         System.out.println("---Отримати підрядок---");
         String textNews = String.join(", ", planet, country, getmanLn);//Є метод substring(), якому ми даємо два індекси - стартовий та кінцевий, і повертається рядок між цими двома індексами (виключаючи символ по останньому індексу):
         System.out.println(textNews.substring(0, 35));
-
+/* 
 float f = 0.5f;
 double d = 0.1;
 double d1 = 0.2;
 System.out.println(d + d1);
+*/
+/*Person person = new Person1(String(item));
+System.out.println(Person1);
+*/
+        System.out.println("---Оголошення змінних за допомогою var---".toUpperCase());
+        var item = (String) null;
+        var item1 = 1;
+        var item2 = 2.5;
+        var item3 = 0.5f;
 
-        System.out.println("Завершення прогарми");
+        System.out.println("item = " + item);
+        System.out.println("item1 = " + item1);
+        System.out.println("item2 = " + item2);
+        System.out.println("item3 = " + item3);
+        
+
+        System.out.println("----Завершення прогарми----".toUpperCase());
+        System.out.println(appleCount);
+
         // boolean texUkr =
-        System.out.print("Початок нового розділу".toUpperCase());
+        System.out.println("Початок нового розділу".toUpperCase());
+        {
+                System.out.println("----Завершення прогарми222----");
+                System.out.println("Початок нового розділу".toUpperCase());
+        }      
+
+        {
+                System.out.println("----Завершення прогарми----3333");
+                System.out.println("Початок нового розділу".toUpperCase());
+                System.out.println(appleCount);
+        }  
     }
 
 // public int return () {
 //return sum = sum(a, b);
 //  AtomicInteger sum = new AtomicInteger();
 //return 0;
-
+        /**
+         * 
+         */
+        
+      
+       
 }
